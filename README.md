@@ -19,9 +19,13 @@ I completed two reports on the Skeleton Test Suite back in 2012/2013. They docum
 
 More information can be found on my blog: http://exponentialdecay.co.uk/blog/the-problem-with-comprehensive-test-suites/
 
+###TODO
+
+- Consider licensing change to CC-BY-SA.
+
 ###License
 
-Copyright (c) 2012 Ross Spencer
+Copyright (c) 2014 Ross Spencer
 
 This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.
 
