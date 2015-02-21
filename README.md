@@ -29,6 +29,7 @@ More information can be found on my blog: http://exponentialdecay.co.uk/blog/the
 ###TODO
 
 - Consider licensing change to CC-BY-SA.
+- Reconsider release layout.
 
 ###License
 
