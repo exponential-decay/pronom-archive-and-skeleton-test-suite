@@ -1,7 +1,7 @@
 # The Skeleton Test Suite
 *(skeleton-test-suite)*
 ---
-#####Release repository for The Skeleton Test Suite. 
+##### Release repository for The Skeleton Test Suite. 
 ---
 ## Introduction
 
@@ -11,27 +11,27 @@ The skeleton-test-suite-generator serves to fill the gap that exists whereby the
 
 The research paper this work led to can be found here: http://www.ijdc.net/index.php/ijdc/article/view/8.1.120
 
-###Source Code
+### Source Code
 
 Code to generate the container, and standard skeleton suites can be found:
 
 - https://github.com/exponential-decay/skeleton-test-suite-generator
 - https://github.com/exponential-decay/skeleton-container-test-suite-generator
 
-###Testing reports
+### Testing reports
 
 I completed two reports on the Skeleton Test Suite back in 2012/2013. They document testing of the files on DROID and explore reasons why some files do or do not work. The reports and links to the test-suites used for testing can be found on the repo wiki, here: https://github.com/exponential-decay/skeleton-test-suite-generator/wiki
 
-###Blogs
+### Blogs
 
 More information can be found on my blog: http://exponentialdecay.co.uk/blog/the-problem-with-comprehensive-test-suites/
 
-###TODO
+### TODO
 
 - Consider licensing change to CC-BY-SA.
 - Reconsider release layout.
 
-###License
+### License
 
 Copyright (c) 2015 Ross Spencer
 
