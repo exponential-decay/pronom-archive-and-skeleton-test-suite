@@ -8,14 +8,30 @@ The skeleton-test-suite-generator serves to fill the gap that exists whereby the
 
 The research paper this work led to can be found here: http://www.ijdc.net/index.php/ijdc/article/view/8.1.120
 
-## DOIS
+## DOIs
 
 Each PRONOM release now has a DOI provided by the Skeleton Suite. This will help academics referencing versions of 
 PRONOM but more importantly will help preservation of this record. 
 
-*
-*
-*
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004366.svg)](https://doi.org/10.5281/zenodo.1004366) Skeleton Test Suite and PRONOM Archive v70 
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004368.svg)](https://doi.org/10.5281/zenodo.1004368) Skeleton Test Suite and PRONOM Archive v72
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004370.svg)](https://doi.org/10.5281/zenodo.1004370) Skeleton Test Suite and PRONOM Archive v73
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004372.svg)](https://doi.org/10.5281/zenodo.1004372) Skeleton Test Suite and PRONOM Archive v74
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004374.svg)](https://doi.org/10.5281/zenodo.1004374) Skeleton Test Suite and PRONOM Archive v75
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004378.svg)](https://doi.org/10.5281/zenodo.1004378) Skeleton Test Suite and PRONOM Archive v77
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004381.svg)](https://doi.org/10.5281/zenodo.1004381) Skeleton Test Suite and PRONOM Archive v78
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004385.svg)](https://doi.org/10.5281/zenodo.1004385) Skeleton Test Suite and PRONOM Archive v79
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004387.svg)](https://doi.org/10.5281/zenodo.1004387) Skeleton Test Suite and PRONOM Archive v81
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004389.svg)](https://doi.org/10.5281/zenodo.1004389) Skeleton Test Suite and PRONOM Archive v82
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004391.svg)](https://doi.org/10.5281/zenodo.1004391) Skeleton Test Suite and PRONOM Archive v83
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004395.svg)](https://doi.org/10.5281/zenodo.1004395) Skeleton Test Suite and PRONOM Archive v84
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004399.svg)](https://doi.org/10.5281/zenodo.1004399) Skeleton Test Suite and PRONOM Archive v85
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004403.svg)](https://doi.org/10.5281/zenodo.1004403) Skeleton Test Suite and PRONOM Archive v86
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004405.svg)](https://doi.org/10.5281/zenodo.1004405) Skeleton Test Suite and PRONOM Archive v88
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004409.svg)](https://doi.org/10.5281/zenodo.1004409) Skeleton Test Suite and PRONOM Archive v89
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004415.svg)](https://doi.org/10.5281/zenodo.1004415) Skeleton Test Suite and PRONOM Archive v90
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004419.svg)](https://doi.org/10.5281/zenodo.1004419) Skeleton Test Suite and PRONOM Archive v91
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004423.svg)](https://doi.org/10.5281/zenodo.1004423) Skeleton Test Suite and PRONOM Archive v92
 
 ### Source Code
 
