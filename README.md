@@ -36,6 +36,7 @@ More information can be found on my blog: http://exponentialdecay.co.uk/blog/the
 
 - Consider licensing change to CC-BY-SA.
 - Reconsider release layout.
+- Builder by @richardlehane for automated releases: https://github.com/richardlehane/builder 
 
 ### License
 
