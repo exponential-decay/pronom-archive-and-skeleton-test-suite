@@ -1,8 +1,5 @@
-# The Skeleton Test Suite
-*(skeleton-test-suite)*
----
-##### Release repository for The Skeleton Test Suite. 
----
+# Release repository for The Skeleton Test Suite.
+
 ## Introduction
 
 Herein lies a tool for the automated generation of digital objects based on the digital signatures documented in the PRONOM database maintained by The National Archives, UK: PRONOM Data is licensed under the Open Government Licence (OGL): http://www.nationalarchives.gov.uk/doc/open-government-licence/
@@ -10,6 +7,15 @@ Herein lies a tool for the automated generation of digital objects based on the 
 The skeleton-test-suite-generator serves to fill the gap that exists whereby the community requires a corpus of digital objects for the validation and evaluation of format identification tools and techniques. The tool should be used to complement a methodology whereby skeleton files are also generated manually by signature developers.
 
 The research paper this work led to can be found here: http://www.ijdc.net/index.php/ijdc/article/view/8.1.120
+
+## DOIS
+
+Each PRONOM release now has a DOI provided by the Skeleton Suite. This will help academics referencing versions of 
+PRONOM but more importantly will help preservation of this record. 
+
+*
+*
+*
 
 ### Source Code
 
