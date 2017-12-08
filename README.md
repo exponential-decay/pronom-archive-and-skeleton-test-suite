@@ -32,6 +32,7 @@ PRONOM but more importantly will help preservation of this record.
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004415.svg)](https://doi.org/10.5281/zenodo.1004415) Skeleton Test Suite and PRONOM Archive v90
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004419.svg)](https://doi.org/10.5281/zenodo.1004419) Skeleton Test Suite and PRONOM Archive v91
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004423.svg)](https://doi.org/10.5281/zenodo.1004423) Skeleton Test Suite and PRONOM Archive v92
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1098334.svg)](https://doi.org/10.5281/zenodo.1098334) Skeleton Test Suite and PRONOM Archive v93
 
 ### Source Code
 
