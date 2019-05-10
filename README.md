@@ -64,6 +64,11 @@ Skeleton Test Suite and PRONOM Archive v92
 Skeleton Test Suite and PRONOM Archive v93
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1451193.svg)](https://doi.org/10.5281/zenodo.1451193)
 Skeleton Test Suite and PRONOM Archive v94
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2713751.svg)](https://doi.org/10.5281/zenodo.2713751)
+Skeleton Test Suite and PRONOM Archive v95
+
+
+
 
 ### Source Code
 
