@@ -4,8 +4,10 @@
 
 Herein lies a tool for the automated generation of digital objects based on the
 digital signatures documented in the PRONOM database maintained by The National
-Archives, UK: PRONOM Data is licensed under the Open Government Licence (OGL):
-http://www.nationalarchives.gov.uk/doc/open-government-licence/
+Archives, UK: PRONOM Data is licensed under the 
+[Open Government Licence (OGL)][ogl-license].
+
+[ogl-license]: http://www.nationalarchives.gov.uk/doc/open-government-licence/
 
 The skeleton-test-suite-generator serves to fill the gap that exists whereby
 the community requires a corpus of digital objects for the validation and
@@ -13,8 +15,10 @@ evaluation of format identification tools and techniques. The tool should be
 used to complement a methodology whereby skeleton files are also generated
 manually by signature developers.
 
-The research paper this work led to can be found here:
-http://www.ijdc.net/index.php/ijdc/article/view/8.1.120
+The research paper this work led to can be found on the
+[IJDC website][ijdc].
+
+[ijdc]: http://www.ijdc.net/index.php/ijdc/article/view/8.1.120
 
 ## DOIs
 
@@ -22,53 +26,76 @@ Each PRONOM release now has a DOI provided by the Skeleton Suite. This will
 help academics referencing versions of PRONOM but more importantly will help
 preservation of this record.
 
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004366.svg)](https://doi.org/10.5281/zenodo.1004366)
-Skeleton Test Suite and PRONOM Archive v70
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004368.svg)](https://doi.org/10.5281/zenodo.1004368)
-Skeleton Test Suite and PRONOM Archive v72
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004370.svg)](https://doi.org/10.5281/zenodo.1004370)
-Skeleton Test Suite and PRONOM Archive v73
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004372.svg)](https://doi.org/10.5281/zenodo.1004372)
-Skeleton Test Suite and PRONOM Archive v74
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004374.svg)](https://doi.org/10.5281/zenodo.1004374)
-Skeleton Test Suite and PRONOM Archive v75
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004378.svg)](https://doi.org/10.5281/zenodo.1004378)
-Skeleton Test Suite and PRONOM Archive v77
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004381.svg)](https://doi.org/10.5281/zenodo.1004381)
-Skeleton Test Suite and PRONOM Archive v78
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004385.svg)](https://doi.org/10.5281/zenodo.1004385)
-Skeleton Test Suite and PRONOM Archive v79
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004387.svg)](https://doi.org/10.5281/zenodo.1004387)
-Skeleton Test Suite and PRONOM Archive v81
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004389.svg)](https://doi.org/10.5281/zenodo.1004389)
-Skeleton Test Suite and PRONOM Archive v82
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004391.svg)](https://doi.org/10.5281/zenodo.1004391)
-Skeleton Test Suite and PRONOM Archive v83
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004395.svg)](https://doi.org/10.5281/zenodo.1004395)
-Skeleton Test Suite and PRONOM Archive v84
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004399.svg)](https://doi.org/10.5281/zenodo.1004399)
-Skeleton Test Suite and PRONOM Archive v85
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004403.svg)](https://doi.org/10.5281/zenodo.1004403)
-Skeleton Test Suite and PRONOM Archive v86
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004405.svg)](https://doi.org/10.5281/zenodo.1004405)
-Skeleton Test Suite and PRONOM Archive v88
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004409.svg)](https://doi.org/10.5281/zenodo.1004409)
-Skeleton Test Suite and PRONOM Archive v89
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004415.svg)](https://doi.org/10.5281/zenodo.1004415)
-Skeleton Test Suite and PRONOM Archive v90
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004419.svg)](https://doi.org/10.5281/zenodo.1004419)
-Skeleton Test Suite and PRONOM Archive v91
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004423.svg)](https://doi.org/10.5281/zenodo.1004423)
-Skeleton Test Suite and PRONOM Archive v92
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1098334.svg)](https://doi.org/10.5281/zenodo.1098334)
-Skeleton Test Suite and PRONOM Archive v93
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1451193.svg)](https://doi.org/10.5281/zenodo.1451193)
-Skeleton Test Suite and PRONOM Archive v94
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3269467.svg)](https://doi.org/10.5281/zenodo.3269467)
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3740666.svg)][sk96]
+Skeleton Test Suite and PRONOM Archive v96
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3269467.svg)][sk95]
 Skeleton Test Suite and PRONOM Archive v95
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1451193.svg)][sk94]
+Skeleton Test Suite and PRONOM Archive v94
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1098334.svg)][sk93]
+Skeleton Test Suite and PRONOM Archive v93
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004423.svg)][sk92]
+Skeleton Test Suite and PRONOM Archive v92
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004419.svg)][sk91]
+Skeleton Test Suite and PRONOM Archive v91
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004415.svg)][sk90]
+Skeleton Test Suite and PRONOM Archive v90
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004409.svg)][sk89]
+Skeleton Test Suite and PRONOM Archive v89
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004405.svg)][sk88]
+Skeleton Test Suite and PRONOM Archive v88
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004403.svg)][sk86]
+Skeleton Test Suite and PRONOM Archive v86
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004399.svg)][sk85]
+Skeleton Test Suite and PRONOM Archive v85
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004395.svg)][sk84]
+Skeleton Test Suite and PRONOM Archive v84
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004391.svg)][sk83]
+Skeleton Test Suite and PRONOM Archive v83
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004389.svg)][sk82]
+Skeleton Test Suite and PRONOM Archive v82
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004387.svg)][sk81]
+Skeleton Test Suite and PRONOM Archive v81
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004385.svg)][sk79]
+Skeleton Test Suite and PRONOM Archive v79
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004381.svg)][sk78]
+Skeleton Test Suite and PRONOM Archive v78
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004378.svg)][sk77]
+Skeleton Test Suite and PRONOM Archive v77
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004374.svg)][sk75]
+Skeleton Test Suite and PRONOM Archive v75
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004372.svg)][sk74]
+Skeleton Test Suite and PRONOM Archive v74
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004370.svg)][sk73]
+Skeleton Test Suite and PRONOM Archive v73
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004368.svg)][sk72]
+Skeleton Test Suite and PRONOM Archive v72
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004366.svg)][sk70]
+Skeleton Test Suite and PRONOM Archive v70
 
-
-
+[sk96]: https://doi.org/10.5281/zenodo.3740666
+[sk95]: https://doi.org/10.5281/zenodo.3269467
+[sk94]: https://doi.org/10.5281/zenodo.1451193
+[sk93]: https://doi.org/10.5281/zenodo.1098334
+[sk92]: https://doi.org/10.5281/zenodo.1004423
+[sk91]: https://doi.org/10.5281/zenodo.1004419
+[sk90]: https://doi.org/10.5281/zenodo.1004415
+[sk89]: https://doi.org/10.5281/zenodo.1004409
+[sk88]: https://doi.org/10.5281/zenodo.1004405
+[sk86]: https://doi.org/10.5281/zenodo.1004403
+[sk85]: https://doi.org/10.5281/zenodo.1004399
+[sk84]: https://doi.org/10.5281/zenodo.1004395
+[sk83]: https://doi.org/10.5281/zenodo.1004391
+[sk82]: https://doi.org/10.5281/zenodo.1004389
+[sk81]: https://doi.org/10.5281/zenodo.1004387
+[sk79]: https://doi.org/10.5281/zenodo.1004385
+[sk78]: https://doi.org/10.5281/zenodo.1004381
+[sk77]: https://doi.org/10.5281/zenodo.1004378
+[sk75]: https://doi.org/10.5281/zenodo.1004374
+[sk74]: https://doi.org/10.5281/zenodo.1004372
+[sk73]: https://doi.org/10.5281/zenodo.1004370
+[sk72]: https://doi.org/10.5281/zenodo.1004368
+[sk70]: https://doi.org/10.5281/zenodo.1004366
 
 ### Source Code
 
@@ -82,20 +109,23 @@ Code to generate the container, and standard skeleton suites can be found:
 I completed two reports on the Skeleton Test Suite back in 2012/2013. They
 document testing of the files on DROID and explore reasons why some files do or
 do not work. The reports and links to the test-suites used for testing can be
-found on the repository wiki, here:
-https://github.com/exponential-decay/skeleton-test-suite-generator/wiki
+found on the repository wiki, here: [Skeleton-reports][reports-1].
+
+[reports-1]: https://github.com/exponential-decay/skeleton-test-suite-generator/wiki
 
 ### Blogs
 
-More information can be found on my blog:
-http://exponentialdecay.co.uk/blog/the-problem-with-comprehensive-test-suites/
+More information can be found on my blog: [More information][skeleton-blog].
+
+[skeleton-blog]: http://exponentialdecay.co.uk/blog/the-problem-with-comprehensive-test-suites/
 
 ### TODO
 
 - Consider licensing change to CC-BY-SA.
 - Reconsider release layout.
-- Builder by @richardlehane for automated releases:
-  https://github.com/richardlehane/builder
+- Builder by @richardlehane for automated releases: [Builder][builder].
+
+[builder]: https://github.com/richardlehane/builder
 
 ### License
 
