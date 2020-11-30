@@ -26,6 +26,8 @@ Each PRONOM release now has a DOI provided by the Skeleton Suite. This will
 help academics referencing versions of PRONOM but more importantly will help
 preservation of this record.
 
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4297109.svg)][sk97]
+Skeleton Test Suite and PRONOM Archive v97
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3740666.svg)][sk96]
 Skeleton Test Suite and PRONOM Archive v96
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3269467.svg)][sk95]
@@ -73,6 +75,7 @@ Skeleton Test Suite and PRONOM Archive v72
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1004366.svg)][sk70]
 Skeleton Test Suite and PRONOM Archive v70
 
+[sk97]: https://doi.org/10.5281/zenodo.4297109
 [sk96]: https://doi.org/10.5281/zenodo.3740666
 [sk95]: https://doi.org/10.5281/zenodo.3269467
 [sk94]: https://doi.org/10.5281/zenodo.1451193
