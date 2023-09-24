@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+- family-names: "Spencer"
+  given-names: "Ross"
+  orcid: "https://orcid.org/0000-0002-5144-9794"
+title: "PRONOM Archive and Skeleton Test Suite"
+version: 1.0.0
+date-released: 2015-02-20
+url: "https://github.com/exponential-decay/pronom-archive-and-skeleton-test-suite"

@@ -1,10 +1,59 @@
-# Release repository for The Skeleton Test Suite.
+# PRONOM Archive and Skeleton Test Suite
+
+## Epilogue
+
+The PRONOM archive and (archive) of the skeleton test suite is no longer
+maintained. The experiment was to create a record of the of Raw data that went
+into PRONOM (the file format registry) for future research purposes.
+
+Rather than just storing the data and leaving it, handles were minted in
+Zenodo to provide an anchor for researchers to point back to. This made the
+workflow a bit more difficult to do by hand and it has been hard to keep up with
+the pace of publication with PRONOM.
+
+Also, the reality is, I don't think digital preservation researchers actually
+care about this data and I don't anticipate PRONOM creating a historical
+interface allowing it to be viewed, filling in a gap in a historical audit
+trail for the system.
+
+Most research projects looking at the change in file format signatures over the
+years have focused on the DROID signature file. This makes sense because the
+DROID signature file actually triggers file format identification and so it
+can be measured against something, i.e. something being identified vs. not
+being identified.
+
+Anecdotally, I believe the DROID export has historically encoded PRONOM data
+with slight variations to the recorded signature. Richard Lehane can shed more
+light on these minor divergances through his work on Siegfried.
+
+### Generating a PRONOM archive in the future
+
+Fortunately, the weight of maintaining a PRONOM record was not entirely on this
+repository's shoulders. Richard has also been maintaining somewhat of a PRONOM
+record through his [builder][builder] utility.
+
+[builder]: https://github.com/richardlehane/builder
+
+Builder's record goes back to PRONOM v92 and the raw PRONOM data can be
+accessed via the tool's release pages: [here][builder-releases].
+
+[builder-releases]: https://github.com/richardlehane/builder/releases?page=1
+
+To that end, between this repository going back to v70 and Builder starting at
+v92, should any researcher want to come back to the historical record of
+PRONOM, they can build a pretty decent picture going back to 2013.
+
+### Skeleton test suite generation
+
+Generating a skeleton test suite will still be possible and that code will
+continue to be maintained as its benefit to signature and tool development. You
+can read more about the skeleton suite generator work below.
 
 ## Introduction
 
 Herein lies a tool for the automated generation of digital objects based on the
 digital signatures documented in the PRONOM database maintained by The National
-Archives, UK: PRONOM Data is licensed under the 
+Archives, UK: PRONOM Data is licensed under the
 [Open Government Licence (OGL)][ogl-license].
 
 [ogl-license]: http://www.nationalarchives.gov.uk/doc/open-government-licence/
@@ -104,8 +153,11 @@ Skeleton Test Suite and PRONOM Archive v70
 
 Code to generate the container, and standard skeleton suites can be found:
 
-- https://github.com/exponential-decay/skeleton-test-suite-generator
-- https://github.com/exponential-decay/skeleton-container-test-suite-generator
+* [github.com/exponential-decay/skeleton-test-suite-generator][gh-1]
+* [github.com/exponential-decay/skeleton-container-test-suite-generator][gh-2]
+
+[gh-1]: https://github.com/exponential-decay/skeleton-test-suite-generator
+[gh-2]: https://github.com/exponential-decay/skeleton-container-test-suite-generator
 
 ### Testing reports
 
@@ -122,13 +174,21 @@ More information can be found on my blog: [More information][skeleton-blog].
 
 [skeleton-blog]: http://exponentialdecay.co.uk/blog/the-problem-with-comprehensive-test-suites/
 
-### TODO
+#### Other blogs and uses of the skeleton suite
 
-- Consider licensing change to CC-BY-SA.
-- Reconsider release layout.
-- Builder by @richardlehane for automated releases: [Builder][builder].
+* [Siegfried 1.0 released][opf-1].
+* [Introduction to Siegfried][opf-2].
+* [Automation in Digital Preservation][dpc-1].
+* [Skeleton suite's contribution to PRONOM v92][pronom-1].
+* [PRONOM in practice][pronom-2].
+* [addtext (adding missing file extensions using PRONOM data)][walsh-1].
 
-[builder]: https://github.com/richardlehane/builder
+[opf-1]: https://openpreservation.org/blogs/siegfried-v-1-0-released-a-file-format-identification-tool/?order=relevance%3ADESC&search=skeleton&q=9152
+[opf-2]: https://openpreservation.org/blogs/siegfried-pronom-based-file-format-identification-tool/
+[dpc-1]: https://www.dpconline.org/blog/wdpd/automation-in-digital-preservation
+[pronom-1]: https://groups.google.com/g/pronom/c/Eh4d8baHIhc/m/rqzUomXkBQAJ
+[pronom-2]: https://osf.io/2jbpe/
+[walsh-1]: https://github.com/tw4l/addext
 
 ### License
 
